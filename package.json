@@ -1,0 +1,15 @@
+{
+  "name": "Target_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:victorcazuriaga/Target_test.git",
+  "author": "Victor Cazuriaga <vikktorrv@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  }
+}
